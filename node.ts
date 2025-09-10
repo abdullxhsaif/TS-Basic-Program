@@ -13,3 +13,5 @@ const user : person = {
 };
 
 console.log(greet(user));
+
+//
